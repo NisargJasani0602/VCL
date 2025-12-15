@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+.DS_Store
+env/
+env3/
+venv/
+venv3/
+__pypackages__/
